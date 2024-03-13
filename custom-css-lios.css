@@ -1,0 +1,1671 @@
+/*-------------------*/
+/*---- HOME PAGE ----*/
+/*-------------------*/
+
+.vc_custom_1522861392455 {
+  border-bottom-color: #f27900 !important;
+}
+
+.vc_custom_1522861987605 {
+  border-bottom-color: #f27900 !important;
+}
+
+/*.vc_custom_1522860987196*/
+.home-bp-live-section .jeg_postblock_9,
+.home-bp-live-section .jeg_postblock_16 {
+  border-bottom-color: #f27900 !important;
+}
+
+.home-bp-live-section-column {
+  border-bottom-color: #f27900 !important;
+}
+
+.home-bp-live-title {
+  font-weight: 700;
+}
+
+.home-bp-live-section .jeg_postblock_9,
+.home-bp-live-section .jeg_postblock_16,
+.home-bp-live-section .jeg_wrapper {
+  border-bottom-color: #f27900 !important;
+}
+
+.home-bp-retire-section .jeg_postblock_9,
+.home-bp-retire-section .jeg_postblock_16,
+.home-bp-retire-section .jeg_wrapper {
+  border-bottom-color: #255aea !important;
+}
+
+.home-bp-real-estate-section .jeg_postblock_9,
+.home-bp-real-estate-section .jeg_postblock_16,
+.home-bp-real-estate-section .jeg_wrapper {
+  border-bottom-color: #dd0000 !important;
+}
+
+.home-bp-invest-section .jeg_postblock_9,
+.home-bp-invest-section .jeg_postblock_16,
+.home-bp-invest-section .jeg_wrapper {
+  border-bottom-color: #000000 !important;
+}
+
+.home-bp-business-section .jeg_postblock_9,
+.home-bp-business-section .jeg_postblock_16,
+.home-bp-business-section .jeg_wrapper {
+  border-bottom-color: #c1c400 !important;
+}
+
+.home-bp-live-section .jeg_block_icon_link i {
+  color: #f27900 !important;
+}
+
+.home-bp-retire-section .jeg_block_icon_link i {
+  color: #255aea !important;
+}
+
+.home-bp-real-estate-section .jeg_block_icon_link i {
+  color: #dd0000 !important;
+}
+
+.home-bp-invest-section .jeg_block_icon_link i {
+  color: #000000 !important;
+}
+
+.home-bp-business-section .jeg_block_icon_link i {
+  color: #c1c400 !important;
+}
+
+.home-bp-live-section .jeg_search_button {
+  background-color: #f27900 !important;
+}
+
+.home-bp-retire-section .jeg_search_button {
+  background-color: #255aea !important;
+}
+
+.home-bp-real-estate-section .jeg_search_button {
+  background-color: #dd0000 !important;
+}
+
+.home-bp-invest-section .jeg_search_button {
+  background-color: #000000 !important;
+}
+
+.home-bp-business-section .jeg_search_button {
+  background-color: #c1c400 !important;
+}
+
+.home-bp-live-section .fa-search::before,
+.home-bp-retire-section .fa-search::before,
+.home-bp-real-estate-section .fa-search::before,
+.home-bp-invest-section .fa-search::before,
+.home-bp-business-section .fa-search::before {
+  color: #fff !important;
+}
+
+/*.jeg_menu_style_1 > li > a::before{ background: none;}
+.jeg_menu_style_1 > li > a:hover{ border-bottom: 2px solid #f70d28; }*/
+.content-inner {
+  color: #000 !important;
+}
+
+/*---------------------*/
+/*---- Country Hub ----*/
+/*---------------------*/
+.cohub_title {
+  font-weight: 700;
+  font-size: 4.0em !important;
+  text-shadow: 3px 3px #000000;
+  letter-spacing: .09rem;
+  width: 90%;
+  word-break: break-word;
+  word-wrap: break-word;
+  position: absolute;
+  top: 35%;
+  Left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.cohub_featured_image {
+  height: 350px;
+}
+
+.wpb_single_image .vc_figure,
+.wpb_single_image .vc_single_image-wrapper,
+.wpb_single_image img {
+  width: 100%;
+}
+
+@media screen and (max-width: 105.375rem) {
+  .cohub_title {
+    font-weight: 700;
+    font-size: 4.0em !important;
+    text-shadow: 3px 3px #000000;
+    letter-spacing: .09rem;
+    width: 90%;
+    word-break: break-word;
+    word-wrap: break-word;
+    position: absolute;
+    top: 35%;
+    Left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+@media screen and (max-width: 64rem) {
+  .cohub_title {
+    font-weight: 700;
+    font-size: 2.0em !important;
+    text-shadow: 3px 3px #000000;
+    letter-spacing: .09rem;
+    width: 90%;
+    word-break: break-word;
+    word-wrap: break-word;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+@media screen and (max-width: 48rem) {
+  .cohub_header {
+    font-weight: 700;
+    font-size: 1.5em !important;
+    text-shadow: 3px 3px #000000;
+    letter-spacing: .09rem;
+    width: 90%;
+    text-transform: uppercase;
+    word-break: break-word;
+    word-wrap: break-word;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+.cohub_body_h2 {
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.1em;
+}
+
+.cohub_resources_h3 {
+  font-weight: 700;
+  font-size: 2.6rem;
+  line-height: 1.1em;
+}
+
+.cohub_top_countries_h3 {
+  font-weight: 700;
+  font-size: 2.0rem;
+  line-height: 1.1em;
+  height: 1.5em;
+}
+
+.cohub_bottom_optin_h3 {
+  font-weight: 700;
+  font-size: 2.6rem;
+  line-height: 1.1em;
+}
+
+.cohub_indhub_lnks_h3 {
+  font-weight: 700;
+  font-size: 1.8em;
+  line-height: 1.1em;
+}
+
+.cohub_top_optin_title_h4 {
+  font-weight: 700;
+  font-size: 2.0rem;
+  line-height: 1.1em;
+  margin-top: 17px;
+}
+
+
+
+@media screen and (max-width: 64rem) {
+  .cohub_top_optin_title_h4 {
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 1.1em;
+    margin-top: 17px;
+  }
+}
+
+.cohub_top_optin {
+  height: 350px;
+}
+
+.cohub-row .wpb_wrapper .p {
+  font-size: 1.1rem !important;
+  font-weight: 400;
+  line-height: 1.5rem !important;
+}
+
+.cohub_featured_image {
+  height: 350px;
+}
+
+.cohub-row .wpb_single_image img {
+  height: 350px !important;
+}
+
+.cohub-row .jeg_block_icon_title h3 {
+  font-size: 1.2em !important;
+  font-weight: 700;
+}
+
+.cohub-row .jeg_pl_lg_7 {
+  background: #e5e5e5;
+  margin-bottom: 40px;
+  border: 1px solid #c4c4c4;
+}
+
+.cohub-row .jeg_pl_lg_7 .jeg_postblock_content {
+  background: #e5e5e5;
+}
+
+.cohub-row .jeg_readmore {
+  color: #ffffff !important;
+  border: 2px solid #c5c5c5 !important;
+  background: #f70d28 !important;
+}
+
+.cohub_topcos_line_limit {
+  display: block;
+  /* or inline-block */
+  text-overflow: ellipsis !important;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-height: 7.5em;
+  line-height: 1.5em;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5;
+}
+
+/*New To Live and Invest Overseas?*/
+
+.new-to-lios .page_title_h1 {
+  font-size: 4.0em;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 64rem) {
+  .new-to-lios .page_title_h1 {
+    font-size: 2.4em;
+    font-weight: 700;
+  }
+}
+
+.new-to-lios .page_title_h2 {
+  font-size: 2.8em;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 64rem) {
+  .new-to-lios .page_title_h2 {
+    font-size: 2.0em;
+    font-weight: 700;
+  }
+}
+
+.new-to-lios .page_title_h3 {
+  font-size: 2.2em;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 64rem) {
+  .new-to-lios .page_title_h3 {
+    font-size: 1.6em;
+    font-weight: 700;
+  }
+}
+
+
+/* Become A LIOS Affiliate Today */
+.lios-affiliate .page_title_h1 {
+  font-size: 4.0em;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 64rem) {
+  .lios-affiliate .page_title_h1 {
+    font-size: 2.4em;
+    font-weight: 700;
+  }
+}
+
+.lios-affiliate .page_title_h2 {
+  font-size: 2.8em;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 64rem) {
+  .lios-affiliate .page_title_h2 {
+    font-size: 2.0em;
+    font-weight: 700;
+  }
+}
+
+.lios-affiliate .page_title_h3 {
+  font-size: 1.8em;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 64rem) {
+  .lios-affiliate .page_title_h3 {
+    font-size: 1.6em;
+    font-weight: 700;
+  }
+}
+
+/* Contact Us */
+.contact-us .font-weight-700 {
+  font-weight: 700;
+}
+
+.contact-us .jeg_block_icon_link i {
+  color: #f70d28;
+}
+
+/*About Us*/
+.about-us {}
+
+/* FAQ */
+.faq-page .font-weight-700 {
+  font-weight: 700;
+}
+
+.jeg_block_icon_link i {
+  color: #082F87 !important;
+}
+
+.entry-content {
+  width: 100%;
+}
+
+/*=================*/
+.experts-form input[type="text"],
+.experts-form input[type="email"],
+.experts-form input[type="url"],
+.experts-form input[type="password"],
+.experts-form input[type="tel"] {
+  width: 95%;
+}
+
+/*.experts-form form { max-width: 600px; text-align: center; margin: -50px auto 20px auto;
+.experts-form input, .experts-form textarea { border:0; outline:0; padding: 1em;
+     @include border-radius(8px);
+     display: block;
+     width: 100%;
+     margin-top: 1em;
+     font-family: 'Merriweather', sans-serif;
+     @include box-shadow(0 1px 1px rgba(black, 0.1));
+     resize: none;
+    &:focus {
+      @include box-shadow(0 0px 2px rgba($red, 1)!important);
+    }
+  }
+
+  .experts-form #input-submit {
+     color: white; background: $red; cursor: pointer;    
+    &:hover { 
+       @include box-shadow(0 1px 1px 1px rgba(#aaa, 0.6)); 
+    }
+  }  
+ .experts-form .cf textarea{ height: 260px !important; }
+}*/
+
+.experts-form .half {
+  float: left;
+  width: 48%;
+  margin-bottom: 1em;
+}
+
+.experts-form .right {
+  width: 50%;
+}
+
+.experts-form .left {
+  margin-right: 2%;
+}
+
+@media (max-width: 480px) {
+  .experts-form .half {
+    width: 100%;
+    float: none;
+    margin-bottom: 0;
+  }
+}
+
+/* Clearfix */
+
+.experts-form .cf:before,
+.experts-form .cf:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */
+}
+
+.experts-form .cf:after {
+  clear: both;
+}
+
+/*additional info*/
+
+.experts-form .cf input,
+.experts-form .cf textarea,
+.experts-form .cf select {
+  background: #f9f9f9 none repeat scroll 0 0;
+  border: 1px solid #d9d9d9;
+  color: #000;
+  font-size: 16px;
+  margin: 8px 0;
+  outline: 0 none;
+  padding: 7px 14px;
+  width: 85%;
+}
+
+.experts-form .half.cf {
+  float: left;
+  width: 48% !important;
+}
+
+.experts-form .antispam {
+  display: none;
+}
+
+.experts-form .half.cf {
+  float: left;
+  width: 48% !important;
+}
+
+.experts-form .cf #input-submit {
+  width: 92%;
+  background: #80b1cd;
+  color: #fff;
+}
+
+/* MENU RESPONSIVE */
+@media only screen and (max-width : 970px) {
+  .responsive-header {
+    display: block !important;
+  }
+
+  #header .menu.main-menu-wrapper.show-search-item.menu-actions-btn-width-1 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width : 1093px) {
+
+  .main-menu li>a,
+  .main-menu li,
+  .off-canvas-menu>ul>li>a {
+    font-size: 15px !important;
+  }
+}
+
+/* end new form 2017 */
+
+/* =========================
+    --- INFOCUS BELIZE ---  
+============================== */
+.infocusbz-note {
+  background: #C2F0BE;
+  padding: 10px;
+  width: 300px;
+  box-shadow: 1px 1px 1px;
+  border-radius: 15px;
+}
+
+.infocusbz-note-left {
+  float: left;
+  margin-right: 10px;
+}
+
+.infocusbz-note-right {
+  float: right;
+  margin-left: 10px;
+}
+
+.infocusbz-note-title {}
+
+.infocusbz-note-content {}
+
+.single-post h2,
+.entry-content h1,
+.entry-content h2,
+.entry-content h3,
+.entry-content h4,
+.entry-content h5,
+.entry-content h6 {
+  font-weight: 700;
+}
+
+/*=================*/
+/*
+ * @font-face { font-family: "Poppins"; font-style: normal; font-weight: 300; src: url("assets/fonts/custom/Poppins-Light.ttf"); }
+@font-face { font-family: "Poppins"; font-style: normal; font-weight: 400; src: url("assets/fonts/custom/Poppins-Regular.ttf"); }
+@font-face { font-family: "Poppins"; font-style: normal; font-weight: 700; src: url("assets/fonts/custom/Poppins-Bold.ttf"); }
+@font-face { font-family: "Poppins"; font-style: normal; font-weight: 900; src: url("assets/fonts/custom/Poppins-Black.ttf"); }
+@font-face { font-family: "Poppins"; font-style: italic; font-weight: 300; src: url("assets/fonts/custom/Poppins-LightItalic.ttf"); }
+@font-face { font-family: "Poppins"; font-style: italic; font-weight: 400; src: url("assets/fonts/custom/Poppins-Italic.ttf"); }
+@font-face { font-family: "Poppins"; font-style: italic; font-weight: 700; src: url("assets/fonts/custom/Poppins-BoldItalic.ttf"); }
+@font-face { font-family: "Poppins"; font-style: italic; font-weight: 900; src: url("assets/fonts/custom/Poppins-BlackItalic.ttf"); }*/
+/*body, input, textarea, select, .chosen-container-single .chosen-single, .btn, .button { font-family: Poppins; }*/
+body {
+  font-family: Arial, Verdana, Tahoma, sans-serif;
+}
+
+/*font-family: Poppins,Helvetica Neue, Helvetica, Arial,Georgia,Times New Roman,sans-serif;*/
+/*.jeg_nav_col.jeg_nav_right.jeg_nav_normal { margin-right: -15px; }*/
+.tve_lg_input_container.tve_clearfix.tve_lg_checkbox {
+  display: none;
+}
+
+/*,.jeg_nav_col.jeg_nav_center.jeg_nav_normal*/
+/* .jeg_header_wrapper .item_wrap.jeg_nav_aligncenter{width: 436px;} */
+
+
+/* *************************************************************************** */
+/* FRONTEND MIN CSS from ASSETS/DIST */
+/* *************************************************************************** */
+
+/* sept 3 2019 */
+
+/* The following class is missing between the Bootstrap code: TEXT-CENTER */
+.text-center {
+  text-align: center
+}
+
+
+/* Fixing the overflowed screen / X position */
+body {
+  overflow-x: hidden !important;
+}
+
+/* Fix issue with containers heights at /country-hub/ sections for mobile views  */
+.cohub_top_optin {
+
+  height: auto !important;
+  min-height: 352px !important;
+  z-index: 7;
+  position: relative;
+
+}
+
+/* Improved visibility for LATEST POST navigation buttons */
+.jeg_block_nav a {
+  font-size: 16px !important;
+  border: 1px solid #d2d2d2 !important;
+  color: #212121 !important;
+  background: #ececec !important;
+}
+
+.jeg_block_nav a.disabled {
+  color: #a0a0a0 !important;
+  border-color: #d2d2d2 !important;
+}
+
+.jeg_block_nav:after,
+.jeg_block_nav:before {
+  border-bottom: 1px solid #e0e0e0 !important;
+}
+
+/* Styles for section 1 of LIOS homepage */
+.home-main-article {
+  box-shadow: 7px 6px 15px #0b1a357d;
+  border-radius: 80px;
+  background: -moz-linear-gradient(45deg, rgba(56, 108, 203, 1) 0%, rgba(27, 54, 102, 1) 100%) !important;
+  /* ff3.6+ */
+  background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(56, 108, 203, 1)), color-stop(100%, rgba(27, 54, 102, 1))) !important;
+  /* safari4+,chrome */
+  background-image: -webkit-linear-gradient(45deg, rgba(56, 108, 203, 1) 0%, rgba(27, 54, 102, 1) 100%) !important;
+  /* safari5.1+,chrome10+ */
+  background: -o-linear-gradient(45deg, rgba(56, 108, 203, 1) 0%, rgba(27, 54, 102, 1) 100%) !important;
+  /* opera 11.10+ */
+  background: -ms-linear-gradient(45deg, rgba(56, 108, 203, 1) 0%, rgba(27, 54, 102, 1) 100%) !important;
+  /* ie10+ */
+  background-image: linear-gradient(45deg, rgba(56, 108, 203, 1) 0%, rgba(27, 54, 102, 1) 100%) !important;
+  /* w3c */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1b3666', endColorstr='#386ccb', GradientType=1) !important;
+  /* ie6-9 */
+}
+
+.home-main-wrapper {
+  padding: 0rem 4rem 0rem 2rem !important;
+  /*new value*/
+  border: 1px solid #b0bdd6;
+  height: 250px;
+}
+
+/* Top Story section, Name and Date row, bottom margin  */
+.home-main-wrapper div {
+  margin: 0px 0 16px 0 !important;
+}
+
+.vc_custom_1566316733275 {
+  background: url(https://www.liveandinvestoverseas.com/wp-content/uploads/2020/01/lios-newsletters.png);
+  background-repeat: no-repeat;
+  padding-top: 4rem;
+  background-position-x: 100%;
+  background-size: 21%;
+  background-position-y: 104%;
+}
+
+.readbyorver {
+  text-align: center;
+  letter-spacing: 4px;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 2rem
+}
+
+
+.home-main-article img {
+  right: 19px !important;
+  /*new value*/
+}
+
+/* Kathleen picture */
+
+
+.newsletter-hub__list-item.js-newsletter-signup-list-item {
+  background: #ffffffa6 !important;
+  /* NEW COLOR VALUE FOR WHITE BOXES, GIVES THEM OPACITY, IN ORDER TO MAKE VISIBLE 
+      ILLUSTRATION IN MOBILE DEVICES*/
+}
+
+
+
+/* newsletter styles */
+
+.newsletter-hub__action {
+  float: right;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 2% 0;
+  width: 30%;
+}
+
+
+/* STYLES FOR: RECOMMENDED BOOKS SECTION */
+
+#recommended-books {
+  min-height: 75vh;
+  background: #f4f4f4;
+  padding-top: 7vh;
+  padding-bottom: 7vh;
+  margin-left: -15px;
+  margin-right: -15px;
+  box-shadow: 0px 0px 4px #b8b8b8;
+  color: #000000;
+}
+
+.recommended-books-title {
+  margin-bottom: 3vh;
+  color: #000000;
+}
+
+.recommended-book-1 {
+  width: 100%;
+  border-top: 1px solid #ffba3a;
+  border-right: 1px solid #d9923a;
+  border-bottom: 2px solid #de7a00;
+  border-left: 1px solid #ffa72f;
+  min-height: 30vh;
+  padding: 1vh;
+  box-shadow: 2px 2px 4px #b2b2b2;
+  margin-bottom: 15px;
+  background: -moz-linear-gradient(359deg, rgb(236, 104, 55) 0%, rgb(255, 139, 97) 48%, rgb(255, 136, 93) 100%);
+  /* ff3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(252, 103, 49, 1)), color-stop(52%, rgba(252, 103, 49, 1)), color-stop(100%, rgba(217, 61, 4, 1)));
+  /* safari4+,chrome */
+  background: -webkit-linear-gradient(359deg, rgb(236, 104, 55) 0%, rgb(255, 139, 97) 48%, rgb(255, 136, 93) 100%);
+  /* safari5.1+,chrome10+ */
+  background: -o-linear-gradient(359deg, rgb(236, 104, 55) 0%, rgb(255, 139, 97) 48%, rgb(255, 136, 93) 100%);
+  /* opera 11.10+ */
+  background: -ms-linear-gradient(359deg, rgb(236, 104, 55) 0%, rgb(255, 139, 97) 48%, rgb(255, 136, 93) 100%);
+  /* ie10+ */
+  background: linear-gradient(359deg, rgb(236, 104, 55) 0%, rgb(255, 139, 97) 48%, rgb(255, 136, 93) 100%)
+    /* w3c */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FC6731', endColorstr='#d93d04', GradientType=0);
+  /* ie6-9 */
+}
+
+.recommended-book-2 {
+  width: 100%;
+  border-top: 1px solid #78cdcd;
+  border-right: 1px solid #07b0b0;
+  border-bottom: 2px solid #066363;
+  border-left: 1px solid #91c7c7;
+  min-height: 30vh;
+  padding: 1vh;
+  box-shadow: 2px 2px 4px #b2b2b2;
+  margin-bottom: 15px;
+  background: -moz-linear-gradient(267deg, rgba(4, 222, 222, 1) 0%, rgba(4, 191, 191, 1) 47%, rgba(3, 168, 168, 1) 100%);
+  /* ff3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(4, 222, 222, 1)), color-stop(47%, rgba(4, 191, 191, 1)), color-stop(100%, rgba(3, 168, 168, 1)));
+  /* safari4+,chrome */
+  background: -webkit-linear-gradient(267deg, rgba(4, 222, 222, 1) 0%, rgba(4, 191, 191, 1) 47%, rgba(3, 168, 168, 1) 100%);
+  /* safari5.1+,chrome10+ */
+  background: -o-linear-gradient(267deg, rgba(4, 222, 222, 1) 0%, rgba(4, 191, 191, 1) 47%, rgba(3, 168, 168, 1) 100%);
+  /* opera 11.10+ */
+  background: -ms-linear-gradient(267deg, rgba(4, 222, 222, 1) 0%, rgba(4, 191, 191, 1) 47%, rgba(3, 168, 168, 1) 100%);
+  /* ie10+ */
+  background: linear-gradient(183deg, rgba(4, 222, 222, 1) 0%, rgba(4, 191, 191, 1) 47%, rgba(3, 168, 168, 1) 100%);
+  /* w3c */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#04DEDE', endColorstr='#03A8A8', GradientType=0);
+  /* ie6-9 */
+}
+
+.recommended-book-3 {
+  width: 100%;
+  border-top: 1px solid #bde4ff;
+  border-right: 1px solid #528cf6;
+  border-bottom: 2px solid #3f6985;
+  border-left: 1px solid #bad5e8;
+  min-height: 30vh;
+  padding: 1vh;
+  box-shadow: 2px 2px 4px #b2b2b2;
+  margin-bottom: 15px;
+  background: -moz-linear-gradient(90deg, #cbd9dd 0%, #dcebfb 54%, white 100%);
+  /* ff3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(46%, white), color-stop(100%, #dbdbdb));
+  /* safari4+,chrome */
+  background: -webkit-linear-gradient(90deg, #cbd9dd 0%, #dcebfb 54%, white 100%);
+  /* safari5.1+,chrome10+ */
+  background: -o-linear-gradient(90deg, #cbd9dd 0%, #dcebfb 54%, white 100%);
+  /* opera 11.10+ */
+  background: -ms-linear-gradient(90deg, #cbd9dd 0%, #dcebfb 54%, white 100%);
+  /* ie10+ */
+  background: linear-gradient(0deg, #cbd9dd 0%, #dcebfb 54%, white 100%);
+  /* w3c */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#FFFFFF", endColorstr="#DBDBDB", GradientType=0);
+  /* ie6-9 */
+
+}
+
+.recommended-book h1 {
+  font-size: 34px;
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+
+.recommended-book h2 {
+  font-size: 18px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  font-weight: bold;
+  color: #000000;
+
+}
+
+.recommended-book .description {
+  margin-top: 25px;
+  font-size: 17px;
+  line-height: 18px;
+}
+
+.recommended-book span {
+  color: #ffc800;
+}
+
+#recommended-books a {
+
+  color: #000000;
+}
+
+
+/* box effect  css */
+.box-books {
+  position: relative;
+  display: inline-block;
+  border-radius: 5px;
+  -webkit-transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+  transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.box-books::after {
+  content: "";
+  border-radius: 5px;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  opacity: 0;
+  -webkit-transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+  transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.box-books:hover {
+  -webkit-transform: scale(1.1, 1.1);
+  transform: scale(1.1, 1.1);
+}
+
+/******************************************
+      ***********************************
+      SECTION 3: mobile STYLES
+      ***********************************	
+  ******************************************/
+
+
+
+/*High resolutions */
+
+
+@media only screen and (max-width: 1920px) and (min-width: 1440px) {
+
+  .newsletter-hub__action {
+    float: right;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 2% 0;
+    width: 30%;
+  }
+
+  .recommended-book img {
+    min-width: 115%;
+    position: absolute;
+    margin-left: -34px;
+  }
+
+}
+
+
+
+/*Smarthphones resolution */
+@media only screen and (max-width: 414px) {
+  .vc_custom_1566316733275 {
+    background: url(https://www.liveandinvestoverseas.com/wp-content/uploads/2020/01/lios-newsletters.png);
+    background-repeat: no-repeat;
+    padding-top: 4rem;
+    background-position-x: 100%;
+    background-size: 90%;
+    background-position-y: 104%;
+  }
+
+  .recommended-book {
+    text-align: center
+  }
+
+  .recommended-book img {
+    max-width: 75%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .recommended-books-title {
+    text-align: center;
+  }
+}
+
+/* iPhone Landscape 6 resolution */
+@media only screen and (max-width: 667px) and (min-width: 660px) {
+  .newsletter-hub__action {
+    width: 34%;
+  }
+
+  .recommended-book img {
+    max-width: 75%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .recommended-books-title {
+    text-align: center;
+  }
+
+
+}
+
+
+/* When the width is 768px */
+@media screen and (max-width: 768px) {
+  .vc_custom_1566316733275 {
+    background-size: 61%;
+  }
+
+  .recommended-books-title {
+    text-align: center
+  }
+
+  .recommended-book {
+    text-align: center;
+  }
+
+  .recommended-book img {
+    max-width: 34%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* When the width is 1024px */
+@media screen and (max-width: 1024px) and (min-width: 1024px) {
+  .newsletter-hub__action {
+    margin: 2% 0 25%;
+    width: 43%;
+  }
+
+  .vc_custom_1566316733275 {
+    background-size: 52%;
+  }
+
+  .recommended-book img {
+    max-width: 120%;
+    position: absolute;
+    margin-top: 28px;
+    margin-left: 7px;
+    width: 111%;
+  }
+}
+
+/* Gradient Button */
+.button {
+  cursor: pointer;
+  /*background: #f70d28;*/
+  text-decoration: none;
+  color: #fff !important;
+  background: linear-gradient(157deg, #ff0000, #a10000, #ff2020);
+  background-size: 600% 600%;
+
+  -webkit-animation: AnimationName 4s ease infinite;
+  -moz-animation: AnimationName 4s ease infinite;
+  -o-animation: AnimationName 4s ease infinite;
+  animation: AnimationName 4s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+  0% {
+    background-position: 0% 4%
+  }
+
+  50% {
+    background-position: 100% 97%
+  }
+
+  100% {
+    background-position: 0% 4%
+  }
+}
+
+@-moz-keyframes AnimationName {
+  0% {
+    background-position: 0% 4%
+  }
+
+  50% {
+    background-position: 100% 97%
+  }
+
+  100% {
+    background-position: 0% 4%
+  }
+}
+
+@-o-keyframes AnimationName {
+  0% {
+    background-position: 0% 4%
+  }
+
+  50% {
+    background-position: 100% 97%
+  }
+
+  100% {
+    background-position: 0% 4%
+  }
+}
+
+@keyframes AnimationName {
+  0% {
+    background-position: 0% 4%
+  }
+
+  50% {
+    background-position: 100% 97%
+  }
+
+  100% {
+    background-position: 0% 4%
+  }
+}
+
+.outline-inward {
+  display: inline-block;
+  position: relative;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+.outline-inward:before {
+  content: '';
+  position: absolute;
+  border: #950011 solid 3px;
+  border-radius: 4px;
+  top: -16px;
+  right: -16px;
+  bottom: -16px;
+  left: -16px;
+  opacity: 0;
+  transition-duration: .3s;
+  transition-property: top right bottom left;
+}
+
+.outline-inward:hover:before {
+  top: -8px;
+  right: -8px;
+  bottom: -8px;
+  left: -8px;
+  opacity: 1;
+}
+
+.contentBox {
+  background: white;
+  padding: 7vh 16vh !important;
+  text-align: justify;
+  margin-bottom: 7vh;
+  width: 133vh !important;
+  border: 1px solid #ccc;
+  box-shadow: 1px 5px 7px #7ca6ed;
+}
+
+/* Cohub modify content box on mobile */
+@media screen and (max-width: 400) {
+  .contentBox {
+    padding: 0 !important;
+  }
+}
+
+/*end of content box  mobile*/
+
+.contentBox p {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+.contentBox li {
+  font-size: 20px;
+}
+
+.vc_section {
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.countryhub-optin {
+  position: relative;
+  top: -27vh;
+}
+
+.cohub-row .wpb_single_image img {
+  min-height: 42vh !important;
+}
+
+
+
+/* Cohub title for high resolutions */
+@media screen and (min-width: 1280px) {
+  .cohub_title {
+    /* top: 30vh!important;*/
+  }
+}
+
+
+/* Cohub title for mobile */
+@media screen and (max-width: 414px) {
+  .cohub_title {
+    top: 11vh !important;
+  }
+}
+
+/* Cohub title for tablets */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .cohub_title {
+    top: 25vh !important;
+  }
+
+}
+
+
+
+
+/*.vc_custom_1532448764357 {
+    border-top-width: 1px !important;
+    border-right-width: 1px !important;
+    border-bottom-width: 1px !important;
+    border-left-width: 1px !important;
+    background-color:#ffffffd1!important;
+    border-left-color: #c4c4c4 !important;
+    border-left-style: solid !important;
+    border-right-color: #c4c4c4 !important;
+    border-right-style: solid !important;
+    border-top-color: #c4c4c4 !important;
+    border-top-style: solid !important;
+    border-bottom-color: #c4c4c4 !important;
+    border-bottom-style: solid !important;
+    border-radius: 1px !important;
+    box-shadow: 0px 0px 4px #5e6d7d!important;
+  }
+  
+  */
+
+
+/************************************
+  ******** MORE RESOURCES FROM PANAMA SECTION CSS*
+  **********
+  ************************************/
+
+.fullwidthBox,
+.resourcesList {
+  display: block;
+  width: 100%;
+}
+
+.resourcesList {
+  background: #fff;
+  border-bottom: 1px solid #c2c2c2;
+}
+
+.resourcesList li,
+.resourcesList h3 {
+  display: inline-block;
+  font-weight: bold !important;
+}
+
+.resourcesList h3,
+.resourcesList a {
+  font-size: 1em !important;
+  color: black;
+  text-decoration: none;
+}
+
+.resourcesList i {
+  color: #082F87;
+}
+
+.resourcesList:hover {
+  background: #f1f1f1;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+#moreResources .places {
+  border-bottom: 3px solid #d93d04;
+}
+
+#moreResources .living {
+  border-bottom: 3px solid #04bfbf;
+}
+
+#moreResources .economy {
+  border-bottom: 3px solid #f2a341;
+}
+
+#moreResources .otherResources {
+  border-bottom: 3px solid #024058;
+}
+
+
+/* -- SVG CSS -- */
+
+.svg-separator {
+  display: block;
+  background: 0 0;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 9;
+  -webkit-transform: translateY(-100%) translateY(2px);
+  transform: translateY(-100%) translateY(2px);
+  width: 100%;
+}
+
+.sep7 {
+  transform: translateY(-100%) translateY(2px) scale(1, 1);
+  transform-origin: top;
+}
+
+
+#curveUpColor2 path,
+#curveDownColor2 path {
+  fill: #e5e5e5;
+  stroke: #e5e5e5;
+}
+
+.curveUpColor2 {
+  top: 38px;
+}
+
+.curveDownColor2 {
+  top: -2px;
+}
+
+
+/* Multiple Triangles */
+.ss-style-multitriangles::before,
+.ss-style-multitriangles::after {
+  left: 50%;
+  width: 50px;
+  height: 50px;
+  -webkit-transform: translateX(-50%) rotate(45deg);
+  transform: translateX(-50%) rotate(45deg);
+}
+
+.ss-style-multitriangles::before {
+  top: -25px;
+  background: inherit;
+  box-shadow: -50px 50px 0 #3498db, 50px -50px 0 #3498db;
+}
+
+.ss-style-multitriangles::after {
+  bottom: -25px;
+  z-index: 10;
+  background: inherit;
+  box-shadow: -50px 50px 0 #3498db, 50px -50px 0 #3498db;
+}
+
+/* COUNTRY HUB H1 H2 H3 SIZES */
+
+.cohub2_body_h2 {
+  font-weight: 700;
+  font-size: 5rem;
+  line-height: 1.1em;
+  text-align: center;
+}
+
+.cohub2_body_h3 {
+  font-size: 2.7em;
+  margin: 1em 0 .5em;
+  line-height: 1.4;
+  text-align: center;
+}
+
+#section-divider {
+  position: relative;
+  padding: 10em 10%;
+}
+
+.cohub-recommended-links {
+  padding: 2vh;
+  background: #eee;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+
+/* text dvider */
+
+.divider2 {
+  position: relative;
+  margin-top: 90px;
+  height: 1px;
+}
+
+.div-transparent:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 5%;
+  right: 5%;
+  width: 90%;
+  height: 1px;
+  background-image: linear-gradient(to right, transparent, rgb(48, 49, 51), transparent);
+}
+
+.div-dot:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  top: -9px;
+  left: calc(50% - 9px);
+  width: 18px;
+  height: 18px;
+  background-color: goldenrod;
+  border: 1px solid rgb(48, 49, 51);
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 2px white,
+    0 0 0 4px white;
+}
+
+.jeg_post_excerpt p,
+.content-inner p {
+  font-family: "Georgia", Tahoma, Sans-Serif;
+  font-size: 1.17em !important;
+  font-display: swap;
+}
+
+
+/* Cohub main image background for mobiles */
+@media screen and (max-width: 414px) {
+  .countryhub-header {
+    background-size: 222% !important;
+    padding-top: 7vh;
+    min-height: 70vh;
+    background-position-y: -3vh !important;
+    background-position-x: -43vh !important;
+  }
+
+  .cohub_title {
+    position: relative;
+  }
+
+}
+
+/* Cohub main image background for high resolutions */
+@media screen and (min-width: 1280px) {
+  .countryhub-header {
+    background-size: 101% !important;
+    padding-top: 7vh;
+    min-height: 300px;
+    background-position-y: -18vh !important;
+  }
+
+
+}
+
+
+
+/* Cohub content box for mobiles */
+@media screen and (max-width: 414px) {
+  .contentBox {
+    background: #fff;
+    padding: 0 1rem !important;
+    text-align: justify;
+    margin-bottom: 7vh;
+    /* width: 32vh !important; */
+    width: 95% !important;
+    margin-left: auto !important;
+    border: 1px solid #ccc;
+    box-shadow: 1px 5px 7px #7ca6ed;
+    margin-right: auto !important;
+  }
+}
+
+/* Cohub content box for tablets */
+@media screen and (max-width: 1025px) {
+  .countryhub-header .jeg-vc-wrapper {
+    padding-top: 5%;
+  }
+}
+
+/* Cohub content box for tablets */
+@media screen and (max-width: 767px) {
+  .headerTitle_cohub {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .countryhub-header {
+    height: 90vh;
+  }
+}
+
+/* Cohub content box for high resolutions */
+@media screen and (min-width: 1280px) {
+
+  .contentBox {
+    background: #fff;
+    padding: 7vh 11vh;
+    text-align: justify;
+    margin-bottom: 7vh;
+    margin-top: 7vh;
+    width: 133vh;
+    border: 1px solid #ccc;
+    box-shadow: 1px 5px 7px #7ca6ed;
+  }
+}
+
+.countryhub-header {
+  margin-top: -30px;
+}
+
+.color {
+  background: #d7eafd;
+  padding: 20px
+}
+
+.contentBorderTop {
+  border-top: 15px solid #d7eafd;
+}
+
+.remove_vc_row .vc_row {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+
+/* Cohub title for desktop and laptops */
+@media screen and (min-width: 1280px) {
+  .headerTitle_cohub {
+    display: block;
+    min-height: 80vh !important;
+    margin-top: -60px;
+    background: -moz-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(4%, rgba(20, 20, 20, 0.95)), color-stop(53%, rgba(20, 20, 20, 0.46)), color-stop(98%, rgba(0, 0, 0, 0)));
+    background: -webkit-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: -o-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: -ms-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: linear-gradient(82deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#141414', endColorstr='#000000', GradientType=1);
+  }
+}
+
+/* Cohub title for iPAD PRO */
+
+@media only screen and (min-width: 1024px) and (max-height: 1366px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1.5) {
+
+  .headerTitle_cohub {
+    display: block;
+    min-height: 49vh !important;
+    margin-top: -60px;
+    background: -moz-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(4%, rgba(20, 20, 20, 0.95)), color-stop(53%, rgba(20, 20, 20, 0.46)), color-stop(98%, rgba(0, 0, 0, 0)));
+    background: -webkit-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: -o-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: -ms-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: linear-gradient(82deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#141414', endColorstr='#000000', GradientType=1);
+  }
+}
+
+/* Landscape */
+@media only screen and (min-width: 1024px) and (max-height: 1366px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1.5) {
+
+  .headerTitle_cohub {
+    display: block;
+    min-height: 70vh !important;
+    margin-top: -114px;
+    background: -moz-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(4%, rgba(20, 20, 20, 0.95)), color-stop(53%, rgba(20, 20, 20, 0.46)), color-stop(98%, rgba(0, 0, 0, 0)));
+    background: -webkit-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: -o-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: -ms-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: linear-gradient(82deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#141414', endColorstr='#000000', GradientType=1);
+  }
+}
+
+
+/* Cohub title for tablets */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .headerTitle_cohub {
+    display: block;
+    min-height: 70vh !important;
+    margin-top: -60px;
+    background: -moz-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(4%, rgba(20, 20, 20, 0.95)), color-stop(53%, rgba(20, 20, 20, 0.46)), color-stop(98%, rgba(0, 0, 0, 0)));
+    background: -webkit-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: -o-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: -ms-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: linear-gradient(82deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#141414', endColorstr='#000000', GradientType=1);
+  }
+
+}
+
+/* Cohub title for mobile */
+@media screen and (max-width: 414px) {
+  .headerTitle_cohub {
+    display: block;
+    min-height: 38vh !important;
+    margin-top: -60px;
+    background: -moz-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(4%, rgba(20, 20, 20, 0.95)), color-stop(53%, rgba(20, 20, 20, 0.46)), color-stop(98%, rgba(0, 0, 0, 0)));
+    background: -webkit-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: -o-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: -ms-linear-gradient(8deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    background: linear-gradient(176deg, rgba(20, 20, 20, 0.95) 4%, rgba(20, 20, 20, 0.46) 53%, rgba(0, 0, 0, 0) 98%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#141414', endColorstr='#000000', GradientType=1);
+  }
+}
+
+
+
+/*CONFERENCES SECTION*/
+
+.upcoming-conferences h4 {
+  font-size: 16px;
+}
+
+
+.white-text {
+  color: #ffffff;
+}
+
+.strong {
+  font-weight: bold
+}
+
+.upcoming-conferences {
+  padding: 1em
+}
+
+
+#lios-conferences {
+  background-image: url('https://www.liveandinvestoverseas.com/wp-content/uploads/2020/01/lios-conferencebg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 65vh;
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+.input-control {
+  min-height: 3em;
+  padding: 7px;
+  font-size: 20px !important;
+  font-weight: bold !important;
+  border: 3px solid #04246b;
+  background: #dce6ff;
+  margin: 11px !important;
+  text-align: center;
+  width: 90% !important;
+}
+
+.red-btn {
+  background: #f70d28;
+  box-shadow: 7px 7px 4px #0000008f;
+  text-align: center;
+  color: #ffffff;
+  min-height: 4em;
+  border-radius: 1px;
+  width: 90%;
+  font-size: 23px !important;
+  margin-bottom: 0.5em;
+}
+
+.conference-articles {
+  background: #ffffff
+}
+
+/*FORM PLACEHOLDER ATTRIBUTE */
+
+.conference-access ::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #8fa3c9;
+  opacity: 1;
+  /* Firefox */
+}
+
+.conference-access :-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #8fa3c9;
+}
+
+.conference-access ::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: #8fa3c9;
+}
+
+.conference-articles .thumbnail-container>img {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  min-height: 70%;
+  color: #a0a0a0;
+  z-index: -1;
+}
+
+.conference-articles h3 {
+  font-size: 17px !important;
+}
+
+.conference-articles .size-715 {
+  padding-bottom: 55.5% !important;
+}
+
+.conference-articles p {
+  font-size: 14px !important;
+}
+
+.conference-articles .jeg_pb_boxed {
+  border: 1px solid #e0e0e0;
+  padding: 14px !important;
+  background: #fff;
+  margin-bottom: 14px !important;
+}
+
+/* Cohub title for mobile */
+@media screen and (max-width: 414px) {
+  .ss-style-curvedown {
+    background: transparent;
+    padding-top: 0em;
+    margin-top: 2em;
+  }
+}
+
+#cp_shape-3-68360 {
+  border-top-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+}
+
+
+/*text author back*/
+.jeg_author_desc {
+  color: #000;
+}
+
+.jeg_post_subtitle {
+  color: #333;
+}
